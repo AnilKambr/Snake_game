@@ -1,2 +1,2 @@
 # Snake_game
-I wrote a Python code fore Snake Game
+I wrote a Python code for Snake Game
